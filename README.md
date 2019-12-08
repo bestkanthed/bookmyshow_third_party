@@ -6,3 +6,8 @@ This is a theoretical implementation of simplified seat booking to enhance user 
 1) Go Lang  
 2) MYSQL v8+
 2) Kafka
+
+## Reference
+A lot of code is take from:  
+Hands-On Software Architecture with Golang: Design and Architect Highly Scalable and Robust Applications Using Go  
+By Jyotiswarup Raiturkar
